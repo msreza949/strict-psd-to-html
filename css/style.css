@@ -177,7 +177,7 @@ body{
 	right: 0;
 	left: 0;
 	bottom: 0;
-	background: #4391C6;
+	background: rgba(40, 147,210, 0.83);
 	transition: 0.3s;
 	align-items: center;
 	margin: 0 auto;
