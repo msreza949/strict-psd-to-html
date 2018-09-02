@@ -55,7 +55,7 @@ body{
 	border-top: 1px solid #44c1f2;
 	padding-top: 15px;
 }
-.slider .slider-contents a {
+.slider .slider-contents .call {
 	color: #fff;
 	text-decoration: none;
 	border: 1px solid #14ade9;
@@ -63,7 +63,7 @@ body{
 	display: inline-block;
 	margin-bottom: 130px;
 }
-.slider .slider-contents a:hover{
+.slider .slider-contents .call:hover{
 	background-color: #14ade9;
 }
 .slider .slider-contents i {
