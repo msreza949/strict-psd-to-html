@@ -73,13 +73,13 @@ li{
 .slider .slider-contents .call:hover{
 	background-color: #14ade9;
 }
-.slider .slider-contents i {
+.slider .slider-contents a i {
 	font-size: 30px;
 	display: block;
 	color: #fff;
 }
 
-.slider .slider-contents i:hover{
+.slider .slider-contents a i:hover{
 	color:#14ade9;
 	cursor:pointer;
 }
