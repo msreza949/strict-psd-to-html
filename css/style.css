@@ -63,12 +63,19 @@ body{
 	display: inline-block;
 	margin-bottom: 130px;
 }
+.slider .slider-contents a:hover{
+	background-color: #14ade9;
+}
 .slider .slider-contents i {
 	font-size: 30px;
 	display: block;
 	color: #fff;
 }
 
+.slider .slider-contents i:hover{
+	color:#14ade9;
+	cursor:pointer;
+}
 .simple-pure {
 	width: 100%;
 	float: left;
